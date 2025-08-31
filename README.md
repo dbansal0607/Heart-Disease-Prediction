@@ -31,6 +31,14 @@ Inside `Heart_Disease_Prediction_final.ipynb`, you'll find:
   - Analyze feature importance and model strengths/weaknesses.
   - Provide visual plots (like ROC curves or feature importance bar charts).
 
+## Results
+
+### Confusion Matrix
+![Confusion Matrix](Confusion%20matrix.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](Correlation%20heat.png)
+
 
 ## Usage Example
 1. Launch the Jupyter Notebook.
